@@ -17,6 +17,13 @@
   </a>
 </p>
 
+<!-- Profile Views & Repo Counters -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UtkuEfeGursoy&label=PROFILE%20VIEWS&color=E11D48&style=flat-square&base=100" alt="Views" />
+  <img src="https://img.shields.io/badge/Repositories-7-E11D48?style=flat-square&logo=github&logoColor=white&labelColor=0B0F19" alt="Repos" />
+  <img src="https://img.shields.io/badge/Commits_2026-140%2B-E11D48?style=flat-square&logo=git&logoColor=white&labelColor=0B0F19" alt="Commits" />
+</p>
+
 </div>
 
 ---
@@ -61,12 +68,13 @@ Learning: Advanced System Design, Cloud Infra & Modern Web Stacks
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=UtkuEfeGursoy&show_icons=true&theme=radical&bg_color=0B0F19&title_color=E11D48&text_color=94A3B8&icon_color=E11D48&border_color=1E293B&border_radius=8" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkuEfeGursoy&layout=compact&theme=radical&bg_color=0B0F19&title_color=E11D48&text_color=94A3B8&border_color=1E293B&border_radius=8" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=UtkuEfeGursoy&show_icons=true&theme=radical&bg_color=0B0F19&title_color=E11D48&text_color=94A3B8&icon_color=E11D48&border_color=1E293B&border_radius=8" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UtkuEfeGursoy&layout=compact&theme=radical&bg_color=0B0F19&title_color=E11D48&text_color=94A3B8&border_color=1E293B&border_radius=8" width="48%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkuEfeGursoy&theme=dark&background=0B0F19&ring=E11D48&fire=E11D48&currStreakLabel=E11D48&border=1E293B&border_radius=8" width="97%" />
+<!-- Dynamic Commit Activity Waveform -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UtkuEfeGursoy&bg_color=0B0F19&color=E11D48&line=E11D48&point=FFFFFF&area=true&hide_border=true" width="97%" />
 
 </div>
 
