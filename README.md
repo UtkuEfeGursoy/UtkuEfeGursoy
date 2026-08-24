@@ -21,14 +21,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=UtkuEfeGursoy&label=PROFILE%20VIEWS&color=E11D48&style=flat-square&base=100" alt="Views" />
   <img src="https://img.shields.io/badge/Repositories-7-E11D48?style=flat-square&logo=github&logoColor=white&labelColor=0B0F19" alt="Repos" />
-  <img src="https://img.shields.io/badge/Contributions_2026-430%2B-40c463?style=flat-square&logo=git&logoColor=white&labelColor=0B0F19" alt="Contributions" />
-</p>
-
-<!-- Exact Contribution Heatmap Grid (Kareli Katkı Takvimi) -->
-<p align="center">
-  <a href="https://github.com/UtkuEfeGursoy">
-    <img src="https://ghchart.rshah.org/40c463/UtkuEfeGursoy" alt="Utku's GitHub Contributions Calendar" width="100%" />
-  </a>
+  <img src="https://img.shields.io/badge/Contributions_2026-438-E11D48?style=flat-square&logo=git&logoColor=white&labelColor=0B0F19" alt="Contributions" />
 </p>
 
 </div>
