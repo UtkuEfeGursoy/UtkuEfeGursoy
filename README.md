@@ -1,0 +1,85 @@
+<div align="center">
+
+<!-- Typing SVG Animation Header -->
+<a href="https://github.com/UtkuEfeGursoy">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E11D48&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Utku+Efe+G%C3%BCrsoy;Software+Engineering+Student+%40+F%C4%B1rat+Uni;Backend+%26+Automation+Developer;Building+Scalable+Tools+%26+Telegram+Bots..." alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <a href="https://linkedin.com/in/utku-efe-g%C3%BCrsoy-9a013a389" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:250542005@firat.edu.tr">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://5.133.102.33.nip.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Server_IP-0B0F19?style=for-the-badge&logo=googlechrome&logoColor=E11D48" alt="Server IP" />
+  </a>
+</p>
+
+</div>
+
+---
+
+### ⚡ System Status & About Me
+```yaml
+Developer: Utku Efe Gürsoy
+Role: Software Engineering Student
+Institution: Fırat University (Fırat Üniversitesi)
+Location: Turkey
+Focus_Areas: Backend Architecture, Automation & Bot Systems, Linux Server Environments
+Currently_Building: Telegram Bots & Automated Micro-services
+Learning: Advanced System Design, Cloud Infra & Modern Web Stacks
+```
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+#### Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+
+#### Tools, Infra & Frameworks
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=UtkuEfeGursoy&show_icons=true&theme=radical&bg_color=0B0F19&title_color=E11D48&text_color=94A3B8&icon_color=E11D48&border_color=1E293B&border_radius=8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkuEfeGursoy&layout=compact&theme=radical&bg_color=0B0F19&title_color=E11D48&text_color=94A3B8&border_color=1E293B&border_radius=8" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkuEfeGursoy&theme=dark&background=0B0F19&ring=E11D48&fire=E11D48&currStreakLabel=E11D48&border=1E293B&border_radius=8" width="97%" />
+
+</div>
+
+---
+
+### 📌 Featured Projects
+| Repository | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**telegram-haber-botu**](https://github.com/UtkuEfeGursoy/telegram-haber-botu) | Otomatik haber takibi ve kanallara anlık bildirim sağlayan bot sistemi. | `Python` `Telegram API` `Automation` |
+| [**plan-yours**](https://github.com/UtkuEfeGursoy/plan-yours) | Günlük görev ve planlama yönetimi için geliştirilen proje. | `Fullstack` `Productivity` `App` |
+
+<br/>
+
+<div align="center">
+  <sub>Designed with precision & UI/UX principles · Utku Efe Gürsoy</sub>
+</div>
