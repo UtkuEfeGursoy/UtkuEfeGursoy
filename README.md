@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<!-- Profile Views & Repo Counters -->
+<!-- Profile Views & Counters -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=UtkuEfeGursoy&label=PROFILE%20VIEWS&color=E11D48&style=flat-square&base=100" alt="Views" />
   <img src="https://img.shields.io/badge/Repositories-7-E11D48?style=flat-square&logo=github&logoColor=white&labelColor=0B0F19" alt="Repos" />
@@ -66,17 +66,14 @@ Learning: Advanced System Design, Cloud Infra & Modern Web Stacks
 
 ### 📊 GitHub Activity & Analytics
 
-<div align="center">
+<p align="center">
+  <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UtkuEfeGursoy&show_icons=true&theme=radical&bg_color=0B0F19&title_color=E11D48&text_color=94A3B8&icon_color=E11D48&border_color=1E293B&border_radius=8" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UtkuEfeGursoy&layout=compact&theme=radical&bg_color=0B0F19&title_color=E11D48&text_color=94A3B8&border_color=1E293B&border_radius=8" alt="Top Langs" />
+</p>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=UtkuEfeGursoy&show_icons=true&theme=radical&bg_color=0B0F19&title_color=E11D48&text_color=94A3B8&icon_color=E11D48&border_color=1E293B&border_radius=8" width="48%" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UtkuEfeGursoy&layout=compact&theme=radical&bg_color=0B0F19&title_color=E11D48&text_color=94A3B8&border_color=1E293B&border_radius=8" width="48%" />
-
-<br/><br/>
-
-<!-- Dynamic Commit Activity Waveform -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UtkuEfeGursoy&bg_color=0B0F19&color=E11D48&line=E11D48&point=FFFFFF&area=true&hide_border=true" width="97%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UtkuEfeGursoy&bg_color=0B0F19&color=E11D48&line=E11D48&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
