@@ -17,11 +17,16 @@
   </a>
 </p>
 
-<!-- Profile Views & Counters -->
+<!-- Profile Views & Live Counters -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=UtkuEfeGursoy&label=PROFILE%20VIEWS&color=E11D48&style=flat-square&base=100" alt="Views" />
   <img src="https://img.shields.io/badge/Repositories-7-E11D48?style=flat-square&logo=github&logoColor=white&labelColor=0B0F19" alt="Repos" />
-  <img src="https://img.shields.io/badge/Commits_2026-140%2B-E11D48?style=flat-square&logo=git&logoColor=white&labelColor=0B0F19" alt="Commits" />
+  <img src="https://img.shields.io/badge/Contributions_2026-430%2B-E11D48?style=flat-square&logo=git&logoColor=white&labelColor=0B0F19" alt="Contributions" />
+</p>
+
+<!-- Dynamic Activity & Contribution Graph at Top -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UtkuEfeGursoy&bg_color=0B0F19&color=E11D48&line=E11D48&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 </div>
@@ -38,6 +43,15 @@ Focus_Areas: Backend Architecture, Automation & Bot Systems, Linux Server Enviro
 Currently_Building: Telegram Bots & Automated Micro-services
 Learning: Advanced System Design, Cloud Infra & Modern Web Stacks
 ```
+
+---
+
+### 📊 GitHub Activity & Analytics
+
+<p align="center">
+  <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UtkuEfeGursoy&show_icons=true&theme=radical&bg_color=0B0F19&title_color=E11D48&text_color=94A3B8&icon_color=E11D48&border_color=1E293B&border_radius=8" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UtkuEfeGursoy&layout=compact&theme=radical&bg_color=0B0F19&title_color=E11D48&text_color=94A3B8&border_color=1E293B&border_radius=8" alt="Top Langs" />
+</p>
 
 ---
 
@@ -64,26 +78,18 @@ Learning: Advanced System Design, Cloud Infra & Modern Web Stacks
 
 ---
 
-### 📊 GitHub Activity & Analytics
-
-<p align="center">
-  <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UtkuEfeGursoy&show_icons=true&theme=radical&bg_color=0B0F19&title_color=E11D48&text_color=94A3B8&icon_color=E11D48&border_color=1E293B&border_radius=8" alt="GitHub Stats" />
-  <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UtkuEfeGursoy&layout=compact&theme=radical&bg_color=0B0F19&title_color=E11D48&text_color=94A3B8&border_color=1E293B&border_radius=8" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UtkuEfeGursoy&bg_color=0B0F19&color=E11D48&line=E11D48&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
 ### 📌 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/UtkuEfeGursoy/telegram-haber-botu">
-    <img height="125" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UtkuEfeGursoy&repo=telegram-haber-botu&theme=radical&bg_color=0B0F19&title_color=E11D48&text_color=94A3B8&icon_color=E11D48&border_color=1E293B&border_radius=8" alt="telegram-haber-botu" />
-  </a>
   <a href="https://github.com/UtkuEfeGursoy/plan-yours">
     <img height="125" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UtkuEfeGursoy&repo=plan-yours&theme=radical&bg_color=0B0F19&title_color=E11D48&text_color=94A3B8&icon_color=E11D48&border_color=1E293B&border_radius=8" alt="plan-yours" />
+  </a>
+  <a href="https://github.com/UtkuEfeGursoy/telegramNewsBot">
+    <img height="125" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UtkuEfeGursoy&repo=telegramNewsBot&theme=radical&bg_color=0B0F19&title_color=E11D48&text_color=94A3B8&icon_color=E11D48&border_color=1E293B&border_radius=8" alt="telegramNewsBot" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/UtkuEfeGursoy/Desing-Yours">
+    <img height="125" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UtkuEfeGursoy&repo=Desing-Yours&theme=radical&bg_color=0B0F19&title_color=E11D48&text_color=94A3B8&icon_color=E11D48&border_color=1E293B&border_radius=8" alt="Desing-Yours" />
   </a>
 </p>
