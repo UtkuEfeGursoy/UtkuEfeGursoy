@@ -77,14 +77,13 @@ Learning: Advanced System Design, Cloud Infra & Modern Web Stacks
 
 ---
 
-### 📌 Featured Projects
-| Repository | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [**telegram-haber-botu**](https://github.com/UtkuEfeGursoy/telegram-haber-botu) | Otomatik haber takibi ve kanallara anlık bildirim sağlayan bot sistemi. | `Python` `Telegram API` `Automation` |
-| [**plan-yours**](https://github.com/UtkuEfeGursoy/plan-yours) | Günlük görev ve planlama yönetimi için geliştirilen proje. | `Fullstack` `Productivity` `App` |
+### 📌 Featured Repositories
 
-<br/>
-
-<div align="center">
-  <sub>Designed with precision & UI/UX principles · Utku Efe Gürsoy</sub>
-</div>
+<p align="center">
+  <a href="https://github.com/UtkuEfeGursoy/telegram-haber-botu">
+    <img height="125" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UtkuEfeGursoy&repo=telegram-haber-botu&theme=radical&bg_color=0B0F19&title_color=E11D48&text_color=94A3B8&icon_color=E11D48&border_color=1E293B&border_radius=8" alt="telegram-haber-botu" />
+  </a>
+  <a href="https://github.com/UtkuEfeGursoy/plan-yours">
+    <img height="125" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UtkuEfeGursoy&repo=plan-yours&theme=radical&bg_color=0B0F19&title_color=E11D48&text_color=94A3B8&icon_color=E11D48&border_color=1E293B&border_radius=8" alt="plan-yours" />
+  </a>
+</p>
